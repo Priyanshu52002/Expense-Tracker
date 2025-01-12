@@ -38,7 +38,7 @@ A full-stack Expense Tracker application that allows users to track and visualiz
 | POST   | `/user/login`    | User login.                 |
 | POST   | `/user/signup`   | User signup.                |
 
-### Example User Credentials
+# Example User Credentials
 - Email: `testinguser@gmail.com`
 - Password: `test123`
 
